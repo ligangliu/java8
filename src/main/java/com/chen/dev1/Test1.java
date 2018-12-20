@@ -5,4 +5,8 @@ package com.chen.dev1;
  * @Date 2018-12-20 19:09
  */
 public class Test1 {
+    public void test2(){
+
+    }
+
 }
